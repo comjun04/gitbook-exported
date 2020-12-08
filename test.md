@@ -59,7 +59,19 @@ _Images are currently not available._
 | content | another content |
 
 {% hint style="info" %}
-This is a hint
+Information
+{% endhint %}
+
+{% hint style="warning" %}
+Warning!
+{% endhint %}
+
+{% hint style="danger" %}
+DANGER!!!
+{% endhint %}
+
+{% hint style="success" %}
+Completed!
 {% endhint %}
 
 {% page-ref page="./" %}
